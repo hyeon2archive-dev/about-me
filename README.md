@@ -1,8 +1,7 @@
 # 안녕하세요, 조승현입니다 👋
 
 ### AI Scientist | 신약 설계(Drug Design)를 연구하는 AI 엔지니어를 꿈꿉니다
-
-> 한 줄 소개를 여기에 적어주세요. 예) "AI 기반 단백질·항체 설계와 후보물질 최적화에 관심이 많은 New Drug Development 연구자입니다."
+` 한 줄 소개를 여기에 적어주세요. 예) "AI 기반 단백질·항체 설계와 후보물질 최적화에 관심이 많은 New Drug Development 연구자입니다." `
 
 ---
 
@@ -27,8 +26,8 @@
 ![RDKit](https://img.shields.io/badge/RDKit-3E7BB0?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- Data-efficient Learning / Active Learning 관련 라이브러리 (예: modAL, BoTorch 등 실제 사용한 것으로 교체)
-- 실험 관리·재현성 도구 (예: MLflow, Weights & Biases, DVC — 사용 경험 있으면 기재)
+`- Data-efficient Learning / Active Learning 관련 라이브러리 (예: modAL, BoTorch 등 실제 사용한 것으로 교체)`
+`- 실험 관리·재현성 도구 (예: MLflow, Weights & Biases, DVC — 사용 경험 있으면 기재)`
 
 ---
 
@@ -50,7 +49,8 @@
 - 대한민국 육군 의무병(약제병) 병장 만기전역(2020.04 ~ 2021.10)
 - 폴란드 바르샤바 공과대학(WUT) 응용생명공학부 석사과정 교환이수(2023.01~2023.08)
 - 울산대학교 의과대학 의과학(신약개발) 석사 졸업(2024.03 ~ 2026.02)
-- 울산대학교병원 생의과학연구소 골반종양연구 실험실 연구경험(2023.10 ~ 2026.02)
+- 울산대학교병원 생의과학연구소 골반종양연구 실험실 석사과정 연구경험(2023.10 ~ 2026.02)
+- 오송첨단의료산업진흥재단 신약개발센터 주관 AI-바이오 융합 신약개발 교육과정 이수(2026.04 / 2026.06)
 - SK AI Leader Academy(SKALA) 4기 교육중(2026.07~
 
 
