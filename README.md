@@ -46,8 +46,13 @@
 
 ## 🎓 학력 & 경력
 
-- [학교/전공] (연도)
-- [인턴/연구실/직무 경험]
+- 울산대학교 의생명과학과 학사 졸업(2017.03 ~ 2024.02)
+- 대한민국 육군 의무병(약제병) 병장 만기전역(2020.04 ~ 2021.10)
+- 폴란드 바르샤바 공과대학(WUT) 응용생명공학부 석사과정 교환이수(2023.01~2023.08)
+- 울산대학교 의과대학 의과학(신약개발) 석사 졸업(2024.03 ~ 2026.02)
+- 울산대학교병원 생의과학연구소 골반종양연구 실험실 연구경험(2023.10 ~ 2026.02)
+- SK AI Leader Academy(SKALA) 4기 교육중(2026.07~
+
 
 ## 📝 논문 · 발표 (있다면)
 
@@ -57,8 +62,8 @@
 
 ## 📫 Contact
 
-- Email: hyeon2ranoon@gmail.com
-- GitHub: [GitHub 프로필 링크]
+- Email: hyeon2archive.dev@gmail.com
+- GitHub: [[GitHub 프로필 링크]](https://github.com/hyeon2archive-dev)
 - LinkedIn / Google Scholar: [있다면 추가]
 
 ---
